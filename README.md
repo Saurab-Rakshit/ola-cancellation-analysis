@@ -5,6 +5,10 @@
 📌 Executive Summary
 
 🎯 Business Problem: High ride cancellation rates and incomplete trips were causing revenue leakage and decreasing driver platform utilization.
+
+
+
+
 📈 Objective: Clean, process, and analyze multi-source transactional ride data to identify seasonal trends, operational bottlenecks, and cancellation drivers.
 🛠️ Action: Engineered a robust end-to-end data pipeline using Excel for data triage, SQL for deep-dive analytical querying, and Power BI for executive dashboarding.
 💥 Business Impact: Identified critical cancellation triggers, allowing leadership to execute data-driven retention strategies that successfully reduced the platform                            cancellation rate by 10%.
