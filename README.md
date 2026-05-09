@@ -1,25 +1,13 @@
 # ola-cancellation-analysis
 
-🚗 Ola/Uber Ride Analytics & Optimization Project
+# 🚗 Ola/Uber Ride Analytics & Optimization Project
 
-📌 Executive Summary
+## 📌 Executive Summary
 
-🎯 Business Problem: High ride cancellation rates and incomplete trips were causing revenue leakage and decreasing driver platform utilization.
-
-
-
-
-📈 Objective: Clean, process, and analyze multi-source transactional ride data to identify seasonal trends, operational bottlenecks, and cancellation drivers.
-
-
-
-
-🛠️ Action: Engineered a robust end-to-end data pipeline using Excel for data triage, SQL for deep-dive analytical querying, and Power BI for executive dashboarding.
-
-
-
-
-💥 Business Impact: Identified critical cancellation triggers, allowing leadership to execute data-driven retention strategies that successfully reduced the platform                            cancellation rate by 10%.
+* 🎯 Business Problem: High ride cancellation rates and incomplete trips were causing revenue leakage and decreasing driver platform utilization.
+* 📈 Objective: Clean, process, and analyze multi-source transactional ride data to identify seasonal trends, operational bottlenecks, and cancellation drivers.
+* 🛠️ Action: Engineered a robust end-to-end data pipeline using Excel for data triage, SQL for deep-dive analytical querying, and Power BI for executive dashboarding.
+* 💥 Business Impact: Identified critical cancellation triggers, allowing leadership to execute data-driven retention strategies that successfully reduced the platform                            cancellation rate by 10%.
 
 Process - Cleaned and process the data from various sources, applied SQL queries, Visualised the trend using Power BI .
 Results - Reduce the cancellation rate by 10% by implementing a new strategy.
